@@ -1,4 +1,4 @@
 # ColorDeficiencyCorrection
-My has always wanted to be able to teach me to fly and help me get my pilots license, but I'm red-green color deficient. I have an idea for attempting to correct it enough to get an unrestricted private pilots license.
+My dad has always wanted to be able to teach me to fly and help me get my pilots license, but I'm red-green color deficient. I have an idea for attempting to correct it enough to get an unrestricted private pilots license.
 
 The purpose of this project is to at least marginally rehabilitate my red-green color vision. I will attempt to use python to analyze my trouble areas in the Ishihara plates using OpenCV. The specific problem hexadecimals will be fed into a repurposed 2D Ising model code that will allow saturation to be adjusted in real time. My hope is that by continued exposure to the threshold at which I can/cannot tell two shades apart, I will increase my ability to detect the different colors. Recent research into neuroplasticity supports that this treatment should be possible.
